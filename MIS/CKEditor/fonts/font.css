@@ -1,0 +1,11 @@
+@font-face {
+/*
+  font-family: 'Aachen W01 Bold';
+  src: url('http://fast.fonts.com/d/b2389136-99bf-4399-a37e-6fed79d5f961.eot?d44f19a684109620e484157ea390e818ad9e3e5f847a3b8385ed9598ac44818e249804e04a34d7db296dfa0df1fd31ef01dc391786413b9840830703eb605a3a86bcbb35bdffb736e31b10cbd918dfefb50649da861998d1db0bcf9c52eebe9e58c88670fb6aa36c7b2a110e6a2c06dc08f1a8fdefbadfb25cafb3a43cbb7e0763fc9df3102aca68b8a48b8c1052717c77addf8b9cc0bf9abc4db674ea72b5cce0527cb37e446ac252529712261d&projectId=54ffd173-a2ec-47f3-a89c-4aa4cfffb109'); */ /* IE */ 
+
+/*
+ src: local("Aachen W01 Bold"),  url('http://fast.fonts.com/d/89307659-78b5-46fd-b762-0c70a32f9b94.ttf?d44f19a684109620e484157ea390e818ad9e3e5f847a3b8385ed9598ac44818e249804e04a34d7db296dfa0df1fd31ef01dc391786413b9840830703eb605a3a86bcbb35bdffb736e31b10cbd918dfefb50649da861998d1db0bcf9c52eebe9e58c88670fb6aa36c7b2a110e6a2c06dc08f1a8fdefbadfb25cafb3a43cbb7e0763fc9df3102aca68b8a48b8c1052717c77addf8b9cc0bf9abc4db674ea72b5cce0527cb37e446ac252529712261d&projectId=54ffd173-a2ec-47f3-a89c-4aa4cfffb109') ;
+*/
+	font-family: 'SajhaN';
+	src: local("SajhaN Regular"), url('./SAJHAN__.TTF');
+}

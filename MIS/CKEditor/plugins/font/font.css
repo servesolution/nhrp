@@ -1,0 +1,22 @@
+/* 
+    Document   : font
+    Created on : Jan 26, 2011, 4:26:59 PM
+    Author     : himal
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+@font-face {  
+    font-family: "Kantipur";
+    /*src: url( ../fonts/font.eot );  IE */
+    src: local("KANTIPUR_R"), url("../plugins/font/KANTIPUR_R.TTF") format("truetype"); /*non-IE*/
+}
