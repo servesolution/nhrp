@@ -1,0 +1,15 @@
+ .tabs-main-menu ul li a {
+                padding: 0 5px !important;
+                font-size: 10.5px !important;
+            }
+
+  .tabs-main-menu .account {
+        font-size: 10.5px !important;
+    }
+
+@media screen and (min-width: 992px) {
+.tabs-main-menu .container-sub-menu .navbar-collapse {
+    padding-left: 0px !important; 
+    margin-left: -30px !important;
+}
+}

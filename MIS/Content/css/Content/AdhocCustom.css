@@ -1,0 +1,326 @@
+﻿
+
+/*label {
+    width: auto;
+}*/
+
+
+.clearfix {
+    *zoom: 1;
+    background: url(../images/nav-bg.png);
+}
+
+
+
+nav {
+    height: 40px;
+    width: 100%;
+    background: #455868;
+    position: relative;
+    padding: 0 10px;
+    margin: 0 auto;
+    line-height: 47px;
+    margin-bottom: 2px;
+}
+
+    nav ul {
+        padding: 0;
+        margin: 0 auto;
+        height: 40px;
+    }
+
+    nav li {
+        display: inline;
+        margin: 0 -2px;
+    }
+
+    nav a {
+        font-size: 14px;
+        color: #fff;
+        text-decoration: none;
+        text-shadow: 1px 0px 0px rgba(34, 34, 34, 0.65);
+        padding: 6px 8px 0px;
+    }
+
+    nav li a {
+        border-right: 1px solid #576979;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    }
+
+    nav li:last-child a {
+        border-right: 0;
+    }
+
+    nav li a.active {
+        /*background: url(../images/nav-bg-active.png) repeat 0 0;*/
+        /*color: #0186B3;*/
+        color: #CCCC99;
+        text-shadow: 1px 1px 5px #003333, 0 0 25px #669999, 0 0 5px #003366;
+        font-weight: bolder;
+        text-decoration: solid;
+        -webkit-border-top-left-radius: 2px;
+        -webkit-border-top-right-radius: 2px;
+        -moz-border-radius-topleft: 2px;
+        -moz-border-radius-topright: 2px;
+    }
+
+    nav li a:hover {
+        color: #CCCC99;
+        text-shadow: 1px 1px 5px #003333, 0 0 25px #669999, 0 0 5px #003366;
+        text-decoration: solid;
+        -webkit-border-top-left-radius: 2px;
+        -webkit-border-top-right-radius: 2px;
+        -moz-border-radius-topleft: 2px;
+        -moz-border-radius-topright: 2px;
+    }
+
+.nav ul li a.active {
+    font-family: 'Roboto-Bold';
+    width: 100%;
+}
+
+nav a#pull {
+    display: none;
+}
+@media only screen and (max-width : 1280px) {
+    #logoimage {
+        width: 450px;
+        margin:0 42%;
+    }
+   .col-md-6 col-header{
+        width:100%;
+    }
+    .flag{
+    float:right;
+    }
+}
+
+
+
+
+@media only screen and (max-width : 992px) {
+    #logoimage {
+        width: 450px;
+        margin:0 10%;
+    }
+   .col-md-6 col-header{
+        width:100%;
+    }
+    .flag{
+       float:right;
+    }
+}
+
+
+@media only screen and (max-width : 770px) {
+    #logoimage {
+        width: 280px;
+        margin:0 15%;
+        
+    }
+     .col-lg-12 col-md-6 col-sm-6 col-xs-12 col-header{
+        width:100%;
+    }
+      .flag{
+        float:right;
+    }
+}
+
+@media only screen and (max-width : 480px) {
+    #logoimage {
+        width: 200px;
+        margin:0 10%;
+    }
+    .col-lg-12 col-md-6 col-sm-6 col-xs-12 col-header{
+        width:100%;
+    }
+     .flag{
+       float:right;
+    }
+     #flagimage{
+              width:50px;
+         height:50px;
+     }
+        #govlogoimage{
+             width:50px;
+         height:50px;
+     }
+     
+}
+/*Smartphone*/
+@media only screen and (max-width : 320px) {
+    #logoimage {
+        width: 250px;
+        margin:0 5%;
+    }
+      .col-lg-12 col-md-6 col-sm-6 col-xs-12 col-header{
+        width:100%;
+    }
+       .flag{
+      float:right;
+    }
+         #flagimage{
+          width:50px;
+         height:50px;
+     }
+        #govlogoimage{
+         width:50px;
+         height:50px;
+     }
+}
+
+.row .btn-grp-wrapper {
+    margin: 0 auto;
+    text-align: center;
+    width: inherit;
+    display: inline-block;
+}
+
+.btn-grp-center-align {
+    text-align: center;
+}
+
+.container-sub-menu {
+    /*padding-right: 15px;
+    padding-left: 15px;*/
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 47px;
+    width: 90%;
+}
+
+@media (min-width:768px) {
+    .container-sub-menu {
+        width: 750px;
+    }
+}
+
+@media (min-width:992px) {
+    .container-sub-menu {
+        width: 970px;
+    }
+}
+
+@media (min-width:1200px) {
+    .container-sub-menu {
+        width: 1170px;
+    }
+}
+
+.footer {
+    border-top: 1px solid #e0e0e0;
+    background-color: #fff;
+    margin-top: 100px;
+    line-height: 60px;
+    font-size: 13px;
+
+    font-family: 'Roboto-Regular';
+    text-align: center;
+    font-weight: normal;
+    color: #666;
+}
+.footer b {
+    font-weight: normal;
+}    
+.footer b a{
+    color: #666;
+}
+@media (min-width:768px) {
+    .container-footer {
+        width: 750px;
+    }
+}
+
+@media (min-width:992px) {
+    .container-footer {
+        width: 970px;
+    }
+}
+
+@media (min-width:1200px) {
+    .container-footer {
+        width: 1170px;
+    }
+}
+
+
+
+/*for responsiveness */
+@media screen and (max-width: 767px) {
+  
+
+    .col-form-field {
+        padding-bottom: 10px;
+    }
+
+    .panel-small {
+        margin: 0 5%;
+    }
+
+    input[type="text"] {
+        width: 190px;
+    }
+
+    .pagination {
+        width: 700px;
+        margin: 0 10px;
+    }
+
+    #tblDataList_length select {
+        margin: 10px;
+    }
+}
+
+table#tblDataList.table-striped.table-bordered.dataTable thead th {
+    width: 100px !important;
+    text-align: center;
+    background: -webkit-linear-gradient(top, rgba(241,242,247,1) 0%,rgba(232,233,238,1) 100%);
+}
+
+#tblDataList_length select {
+    width: auto;
+}
+
+.btn-custom-darken.active {
+  color: rgba(255, 255, 255, 0.75);
+}
+.btn-custom-darken {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #007ab8;
+  background-image: -moz-linear-gradient(top, #0088cc, #006699);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0088cc), to(#006699));
+  background-image: -webkit-linear-gradient(top, #0088cc, #006699);
+  background-image: -o-linear-gradient(top, #0088cc, #006699);
+  background-image: linear-gradient(to bottom, #0088cc, #006699);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff006699', GradientType=0);
+  border-color: #006699 #006699 #00334d;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  *background-color: #006699;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.btn-custom-darken:hover,
+.btn-custom-darken:focus,
+.btn-custom-darken:active,
+.btn-custom-darken.active,
+.btn-custom-darken.disabled,
+.btn-custom-darken[disabled] {
+  color: #ffffff;
+  background-color: #006699;
+  *background-color: #005580;
+}
+.btn-custom-darken:active,
+.btn-custom-darken.active {
+  background-color: #004466 ;
+}
+
+.successSave{
+    color: green;
+}
+
+.errorSave{
+    color:orangered;
+}
