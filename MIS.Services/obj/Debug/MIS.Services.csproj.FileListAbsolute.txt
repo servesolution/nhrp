@@ -1,0 +1,360 @@
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\working\mld_project\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\working\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\working\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+E:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+E:\working\mld_project\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+E:\working\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+E:\working\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+F:\mld_project\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+F:\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+F:\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+F:\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+F:\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+F:\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+F:\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+F:\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+F:\MLD_Ongoing\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+F:\MLD_Ongoing\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\MLD_Ongoing\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+F:\MLD_Ongoing\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\RAVIN\PROJECTS\MLD PROJECT\MLD\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\MISProject\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\MISProject\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\MISProject\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\log4net.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\MISProject\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\MISProject\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\MISProject\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\MISProject\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\MISProject\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\log4net.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+F:\working\mld_project\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+F:\working\mld_project\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+F:\working\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+F:\working\mld_project\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\Live Project\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\Live Project\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\log4net.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Live Project\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\Live Project\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\Live Project\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\Live Project\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Live Project\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\Live Project\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\New UI Project\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\New UI Project\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\log4net.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\New UI Project\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\New UI Project\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\New UI Project\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\New UI Project\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\New UI Project\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\New UI Project\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\UI Design\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\UI Design\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\log4net.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\UI Design\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\UI Design\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\UI Design\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\UI Design\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\UI Design\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\UI Design\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+C:\mld\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\mld\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+C:\mld\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+C:\mld\MIS\MIS.Services\bin\Debug\antlr.runtime.dll
+C:\mld\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+C:\mld\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+C:\mld\MIS\MIS.Services\bin\Debug\Ionic.Zip.dll
+C:\mld\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+C:\mld\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\mld\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\mld\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\mld\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+C:\mld\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+C:\mld\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+C:\mld\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+C:\mld\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+C:\new_mld\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+C:\new_mld\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+C:\new_mld\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+C:\new_mld\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+C:\new_mld\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+C:\new_mld\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\new_mld\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\new_mld\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\new_mld\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+C:\new_mld\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+C:\new_mld\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+C:\new_mld\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\new_mld\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+C:\new_mld\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\MIS.Services.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\EntityFramework.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\MIS.Models.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\log4net.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\New Repo\UI_Design\MIS\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\New Repo\UI_Design\MIS\MIS.Services\obj\Debug\ResolveAssemblyReference.cache
+D:\New Repo\UI_Design\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\New Repo\UI_Design\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\SSITH\SPI\MLDMISCode\MIS\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+D:\SSITH\SPI\MLDMISCode\MIS\MIS.Services\obj\Debug\MIS.Services.dll
+D:\SSITH\SPI\MLDMISCode\MIS\MIS.Services\obj\Debug\MIS.Services.pdb
+E:\NHRP\branches\MIS.Services\bin\Debug\MIS.Services.dll
+E:\NHRP\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+E:\NHRP\branches\MIS.Services\bin\Debug\EntityFramework.dll
+E:\NHRP\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+E:\NHRP\branches\MIS.Services\bin\Debug\MIS.Models.dll
+E:\NHRP\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\NHRP\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\NHRP\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\NHRP\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+E:\NHRP\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+E:\NHRP\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+E:\NHRP\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+E:\NHRP\branches\MIS.Services\obj\Debug\MIS.Services.dll
+E:\NHRP\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\MIS.Services.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\EntityFramework.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\MIS.Models.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\WorkandMore\NHRP\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\WorkandMore\NHRP\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+D:\WorkandMore\NHRP\branches\MIS.Services\obj\Debug\MIS.Services.dll
+D:\WorkandMore\NHRP\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\New Repo\branches\MIS.Services\bin\Debug\MIS.Services.dll
+D:\New Repo\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\New Repo\branches\MIS.Services\bin\Debug\EntityFramework.dll
+D:\New Repo\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\New Repo\branches\MIS.Services\bin\Debug\MIS.Models.dll
+D:\New Repo\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\New Repo\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\New Repo\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\New Repo\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\New Repo\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\New Repo\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\New Repo\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+D:\New Repo\branches\MIS.Services\obj\Debug\MIS.Services.dll
+D:\New Repo\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\MIS.Services.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\EntityFramework.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\MIS.Models.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\obj\Debug\MIS.Services.dll
+D:\WorkandMore\NHRSApplication\NHRPLatestRepo\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+E:\NHRP jan\branches\MIS.Services\bin\Debug\MIS.Services.dll
+E:\NHRP jan\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+E:\NHRP jan\branches\MIS.Services\bin\Debug\EntityFramework.dll
+E:\NHRP jan\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+E:\NHRP jan\branches\MIS.Services\bin\Debug\MIS.Models.dll
+E:\NHRP jan\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\NHRP jan\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\NHRP jan\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\NHRP jan\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+E:\NHRP jan\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+E:\NHRP jan\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+E:\NHRP jan\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+E:\NHRP jan\branches\MIS.Services\obj\Debug\MIS.Services.dll
+E:\NHRP jan\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\obj\Debug\MIS.Services.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\MIS.Services.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\EntityFramework.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\MIS.Models.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\Oracle.DataAccess.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+B:\Backup EHRP Project\EHRP_JUN\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Debug\MIS.Services.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Debug\EntityFramework.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\MIS.Models.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\Oracle.DataAccess.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+B:\NHRP 615\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+B:\NHRP 615\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+B:\NHRP 615\branches\MIS.Services\obj\Debug\MIS.Services.dll
+B:\NHRP 615\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Services.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\EntityFramework.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Models.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\Oracle.DataAccess.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+B:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+B:\EHRP 8-22\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+B:\EHRP 8-22\branches\MIS.Services\obj\Debug\MIS.Services.dll
+B:\EHRP 8-22\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Services.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\EntityFramework.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Models.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+E:\EHRP 8-22\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+E:\EHRP 8-22\branches\MIS.Services\obj\Debug\MIS.Services.dll
+E:\EHRP 8-22\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+E:\NHRS\MIS.Services\bin\Debug\MIS.Services.dll
+E:\NHRS\MIS.Services\bin\Debug\MIS.Services.pdb
+E:\NHRS\MIS.Services\bin\Debug\EntityFramework.dll
+E:\NHRS\MIS.Services\bin\Debug\ExceptionHandler.dll
+E:\NHRS\MIS.Services\bin\Debug\MIS.Models.dll
+E:\NHRS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\NHRS\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\NHRS\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\NHRS\MIS.Services\bin\Debug\EntityFramework.pdb
+E:\NHRS\MIS.Services\bin\Debug\ExceptionHandler.pdb
+E:\NHRS\MIS.Services\bin\Debug\MIS.Models.pdb
+E:\NHRS\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+E:\NHRS\MIS.Services\obj\Debug\MIS.Services.dll
+E:\NHRS\MIS.Services\obj\Debug\MIS.Services.pdb
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\MIS.Services.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\EntityFramework.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\MIS.Models.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+E:\NHRPMIS\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+E:\NHRPMIS\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+E:\NHRPMIS\branches\MIS.Services\obj\Debug\MIS.Services.dll
+E:\NHRPMIS\branches\MIS.Services\obj\Debug\MIS.Services.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\MIS.Services.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\MIS.Services.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\EntityFramework.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\ExceptionHandler.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\MIS.Models.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\EntityFramework.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\ExceptionHandler.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Debug\MIS.Models.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\obj\Debug\MIS.Services.csprojResolveAssemblyReference.cache
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\obj\Debug\MIS.Services.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\obj\Debug\MIS.Services.pdb

@@ -1,0 +1,92 @@
+B:\NHRP 615\branches\MIS.Services\obj\Release\MIS.Services.csprojResolveAssemblyReference.cache
+B:\NHRP 615\branches\MIS.Services\bin\Release\MIS.Services.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\MIS.Services.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Release\antlr.runtime.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\EntityFramework.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\ExceptionHandler.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\Ionic.Zip.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\MIS.Models.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\StringTemplate.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+B:\NHRP 615\branches\MIS.Services\bin\Release\EntityFramework.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Release\ExceptionHandler.pdb
+B:\NHRP 615\branches\MIS.Services\bin\Release\MIS.Models.pdb
+B:\NHRP 615\branches\MIS.Services\obj\Release\MIS.Services.dll
+B:\NHRP 615\branches\MIS.Services\obj\Release\MIS.Services.pdb
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Services.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Services.pdb
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\antlr.runtime.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\EntityFramework.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\ExceptionHandler.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\Ionic.Zip.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Models.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\StringTemplate.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\EntityFramework.pdb
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\ExceptionHandler.pdb
+B:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Models.pdb
+B:\EHRP 8-22\branches\MIS.Services\obj\Release\MIS.Services.csprojResolveAssemblyReference.cache
+B:\EHRP 8-22\branches\MIS.Services\obj\Release\MIS.Services.dll
+B:\EHRP 8-22\branches\MIS.Services\obj\Release\MIS.Services.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Services.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Services.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\antlr.runtime.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\EntityFramework.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\ExceptionHandler.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\Ionic.Zip.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Models.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\StringTemplate.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\EntityFramework.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\ExceptionHandler.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\MIS.Models.pdb
+E:\EHRP 8-22\branches\MIS.Services\obj\Release\MIS.Services.csprojResolveAssemblyReference.cache
+E:\EHRP 8-22\branches\MIS.Services\obj\Release\MIS.Services.dll
+E:\EHRP 8-22\branches\MIS.Services\obj\Release\MIS.Services.pdb
+E:\EHRP 8-22\branches\MIS.Services\bin\Release\System.Web.Mvc.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\MIS.Services.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\MIS.Services.pdb
+E:\NHRPMIS\branches\MIS.Services\bin\Release\antlr.runtime.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\EntityFramework.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\ExceptionHandler.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\Ionic.Zip.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\MIS.Models.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\StringTemplate.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\System.Web.Mvc.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\NHRPMIS\branches\MIS.Services\bin\Release\EntityFramework.pdb
+E:\NHRPMIS\branches\MIS.Services\bin\Release\ExceptionHandler.pdb
+E:\NHRPMIS\branches\MIS.Services\bin\Release\MIS.Models.pdb
+E:\NHRPMIS\branches\MIS.Services\obj\Release\MIS.Services.csprojResolveAssemblyReference.cache
+E:\NHRPMIS\branches\MIS.Services\obj\Release\MIS.Services.dll
+E:\NHRPMIS\branches\MIS.Services\obj\Release\MIS.Services.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\MIS.Services.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\MIS.Services.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\antlr.runtime.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\EntityFramework.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\ExceptionHandler.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\Ionic.Zip.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\MIS.Models.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\StringTemplate.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\EntityFramework.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\ExceptionHandler.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\bin\Release\MIS.Models.pdb
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\obj\Release\MIS.Services.csprojResolveAssemblyReference.cache
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\obj\Release\MIS.Services.dll
+D:\NHRSForNewRepo\NHRP(CodePRepo)\branches\MIS.Services\obj\Release\MIS.Services.pdb
